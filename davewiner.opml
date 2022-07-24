@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>davewiner.opml</title>
+		<dateModified>Sun, 24 Jul 2022 21:43:36 GMT</dateModified>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		</head>
+	<body text="davewiner.opml">
+		<outline text="Who">
+			<outline text="I am a software developer and writer."></outline>
+			<outline text="My Wikipedia &lt;a href=&quot;https://en.wikipedia.org/wiki/Dave_Winer&quot;&gt;profile page&lt;/a&gt; has some good info on it. "></outline>
+			<outline text="My &lt;a href=&quot;http://dave.scripting.com/cv&quot;&gt;CV&lt;/a&gt; for when I was a fellow at Berkman Center. "></outline>
+			<outline text="A more recent &lt;a href=&quot;http://this.how/davewiner/&quot;&gt;CV&lt;/a&gt;. (2018)"></outline>
+			<outline text="Bio">
+				<outline text="&lt;a href=&quot;http://www.flickr.com/photos/scriptingnews/5288451026/&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2010/12/24/daveTiny.jpg&quot; width=&quot;75&quot; height=&quot;112&quot; border=&quot;0&quot; align=&quot;right&quot; hspace=&quot;15&quot; vspace=&quot;5&quot; alt=&quot;A picture named daveTiny.jpg&quot;&gt;&lt;/a&gt;Dave Winer, 66, is a software developer and editor of the Scripting News weblog. He pioneered the development of weblogs, syndication (RSS), podcasting, outlining, and web content management software; former contributing editor at Wired Magazine, research fellow at Harvard Law School and NYU, entrepreneur, started two Silicon Valley tech companies. A native New Yorker, he received a Master's in Computer Science from the University of Wisconsin, a Bachelor's in Mathematics from Tulane University. He currently lives in Woodstock, NY."></outline>
+				<outline text="&quot;When the history of the web is written, his name will be up there in lights, because he was the guy who showed what blogging could do.&quot; -- &lt;a href=&quot;http://www.theguardian.com/technology/2014/oct/12/happy-20th-anniversary-dave-winer-inventor-of-the-blog&quot;&gt;Guardian&lt;/a&gt;. "></outline>
+				<outline text="&quot;The protoblogger.&quot; -- &lt;a href=&quot;http://www.nytimes.com/2006/12/02/business/02online.html?ex=1322715600&amp;en=c3da3b8d4273449c&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss&quot;&gt;NY Times&lt;/a&gt;."></outline>
+				<outline text="&quot;The father of modern-day content distribution.&quot; - &lt;a href=&quot;http://www.pcworld.com/article/id,129301-page,9-c,techindustrytrends/article.html&quot;&gt;PC World&lt;/a&gt;."></outline>
+				<outline text="&quot;Dave was in a hurry. He had big ideas.&quot; -- &lt;a href=&quot;http://news.harvard.edu/gazette/story/2011/10/the-podcast-revolution/&quot;&gt;John Palfrey, Harvard&lt;/a&gt;."></outline>
+				<outline text="&lt;a href=&quot;http://static.scripting.com/larryKing/images/2013/12/22/daveWinerLinkedToMeFull.gif&quot;&gt;&lt;img src=&quot;http://static.scripting.com/larryKing/images/2013/12/22/daveWinerLinkedToMe.gif&quot; width=&quot;250&quot; height=&quot;159&quot; border=&quot;0&quot; style=&quot;float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;&quot; alt=&quot;A picture named daveWinerLinkedToMe.gif&quot;&gt;&lt;/a&gt;&quot;Dave Winer is one of the most important figures in the evolution of online media.&quot; -- &lt;a href=&quot;http://www.niemanlab.org/2011/01/dave-winer-how-can-universities-educate-journo-programmers/&quot;&gt;Nieman Journalism Lab&lt;/a&gt;."></outline>
+				<outline text="10 inventors of Internet technologies you may not have heard of. -- &lt;a href=&quot;http://royal.pingdom.com/2011/11/14/10-inventors-of-internet-technologies-you-may-not-have-heard-of/&quot;&gt;Royal Pingdom&lt;/a&gt;."></outline>
+				<outline text="One of &lt;a href=&quot;http://images.businessweek.com/ss/07/09/0924_25webinfluencers/source/24.htm&quot;&gt;BusinessWeek's&lt;/a&gt; 25 Most Influential People on the Web."></outline>
+				<outline text="&quot;Helped popularize blogging, podcasting and RSS.&quot; - &lt;a href=&quot;http://www.time.com/time/magazine/article/0,9171,1570705,00.html&quot;&gt;Time&lt;/a&gt;."></outline>
+				<outline text="&quot;The father of blogging and RSS.&quot; - &lt;a href=&quot;http://news.bbc.co.uk/1/hi/technology/6748103.stm&quot;&gt;BBC&lt;/a&gt;."></outline>
+				<outline text="&quot;RSS was born in 1997 out of the confluence of Dave Winer's 'Really Simple Syndication' technology, used to push out blog updates, and Netscape's 'Rich Site Summary', which allowed users to create custom Netscape home pages with regularly updated data flows.&quot; - &lt;a href=&quot;http://tim.oreilly.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html?page=3&quot;&gt;Tim O'Reilly&lt;/a&gt;."></outline>
+				<outline text="8/2/11: &lt;a href=&quot;http://scripting.com/stories/2011/08/02/whoIAm.html&quot;&gt;Who I Am&lt;/a&gt;."></outline>
+				</outline>
+			<outline text="Picture">
+				<outline text="Someday we should have a conference where every speaker has to dress and talk like Steve Jobs."></outline>
+				<outline text="&lt;img src=&quot;http://scripting.com/2015/07/05/dave.png&quot;&gt;"></outline>
+				<outline text="PS: Here's another &lt;a href=&quot;http://scripting.com/images/2018/05/07/daveWinerHeadshot.png&quot;&gt;headshot&lt;/a&gt;."></outline>
+				</outline>
+			<outline text="Contact">
+				<outline text="dave.winer@gmail.com"></outline>
+				<outline created="Mon, 24 Mar 2014 23:36:30 GMT" pgfnum="39843" text="&lt;a href=&quot;https://www.facebook.com/dave.winer.12&quot;&gt;Facebook&lt;/a&gt;"></outline>
+				<outline created="Mon, 24 Mar 2014 23:37:37 GMT" pgfnum="39844" text="&lt;a href=&quot;https://twitter.com/davewiner&quot;&gt;Twitter&lt;/a&gt;"></outline>
+				</outline>
+			<outline text="Bike">
+				<outline text="People are always asking &lt;a href=&quot;http://www.giant-bicycles.com/en-us/bikes/model/rapid.2/3875/36256/&quot;&gt;about my bike&lt;/a&gt;."></outline>
+				<outline text="&lt;a href=&quot;http://scripting.com/images/2010/08/27/bike.jpg&quot;&gt;&lt;img src=&quot;http://scripting.com/images/2010/08/27/bikesmall.jpg&quot; width=&quot;145&quot; height=&quot;88&quot; border=&quot;0&quot; alt=&quot;A picture named bikesmall.jpg&quot; style=&quot;border: 1px solid silver; background-color: white; padding: 15px;&quot;&gt;&lt;/a&gt;"></outline>
+				<outline text="Here's a &lt;a href=&quot;http://www.flickr.com/photos/scriptingnews/4849644491/&quot;&gt;picture&lt;/a&gt; when it was new in 2010. "></outline>
+				</outline>
+			<outline text="Warning!">
+				<outline text="&lt;img src=&quot;http://scripting.com/images/2010/08/19/warning.gif&quot; width=&quot;178&quot; height=&quot;241&quot; border=&quot;0&quot; alt=&quot;A picture named warning.gif&quot;&gt;"></outline>
+				<outline text="FYI: You're soaking in it. :-)"></outline>
+				</outline>
+			</outline>
+		<outline text="What">
+			<outline text="Scripting News">
+				<outline text="&lt;a href=&quot;http://scripting.com/&quot;&gt;Scripting News&lt;/a&gt; is my blog."></outline>
+				<outline collapse="true" text="Natural-born blogger">
+					<outline text="Some people were born to play country music. I was born to blog. "></outline>
+					<outline text="At the beginning of blogging I thought everyone would be a blogger. I was wrong. Most people don't have the impulse to say what they think. "></outline>
+					<outline text="So when you meet one, you'll know it -- if they write letters to the editor, or if they voluteered to go to the blackboard when they were students. In my day, we were the kinds of people who started underground newspapers, or who volunteered for the student radio station at college. "></outline>
+					</outline>
+				<outline collapse="true" text="Bootstrapping the blog revolutions">
+					<outline text="We're in the business of bootstrapping new forms of social behavior. "></outline>
+					<outline text="Scripting News was started in 1997, by me, &lt;a href=&quot;http://davewiner.com/&quot;&gt;Dave Winer&lt;/a&gt;. ">
+						<outline text="Or 1994 or 1996 or whenever you think it actually started. "></outline>
+						<outline text="I wrote my &lt;a href=&quot;http://scripting.com/davenet/&quot;&gt;first blog posts&lt;/a&gt; in &lt;a href=&quot;http://gizmodo.com/5926282/why-dave-winer-invented-the-blog&quot;&gt;1994&lt;/a&gt;, that's for sure. "></outline>
+						</outline>
+					<outline text="It's the longest continuously running blog on the Internet."></outline>
+					</outline>
+				<outline text="The &lt;a href=&quot;http://scripting.com/?tab=about&quot;&gt;About tab&lt;/a&gt; on Scripting News."></outline>
+				<outline text="The Guardian ran a &lt;a href=&quot;http://www.theguardian.com/technology/2014/oct/12/happy-20th-anniversary-dave-winer-inventor-of-the-blog&quot;&gt;wonderful column&lt;/a&gt; on the 20th anniversary of Scripting News."></outline>
+				</outline>
+			<outline text="Software products">
+				<outline text="Current products">
+					<outline text="1999.io" type="link" url="http://1999.io/"></outline>
+					<outline name="littleOutliner" text="Little Outliner" type="link" url="http://littleoutliner.com/v2/"></outline>
+					<outline text="Happy Friends" type="link" url="http://happyfriends.camp/"></outline>
+					<outline name="radio3" text="Radio3" type="link" url="http://radio3.io/"></outline>
+					<outline name="fargo" text="Fargo" type="link" url="http://fargo.io/"></outline>
+					<outline text="Little Pork Chop" type="link" url="http://pork.io/"></outline>
+					<outline text="Little Card Editor" type="link" url="http://littlecardeditor.com/"></outline>
+					<outline text="Thesaurus Land" type="link" url="http://thesaurus.land/"></outline>
+					<outline text="PagePark" type="link" url="http://pagepark.io/"></outline>
+					<outline text="NodeRunner" type="link" url="http://noderunner.io/"></outline>
+					<outline name="river4" text="River5" type="link" url="https://github.com/scripting/river5"></outline>
+					</outline>
+				<outline text="Gone but not forgotten">
+					<outline text="LBBS" type="link" url="http://scripting.com/dwiner/outlinersProgramming.html"></outline>
+					<outline text="ThinkTank" type="link" url="http://outliners.scripting.com/thinkTank2Pc.html"></outline>
+					<outline text="Ready!" type="link" url="https://books.google.com/books?id=jy8EAAAAMBAJ&amp;pg=PA40&amp;lpg=PA40&amp;dq=living+videotext+ready&amp;source=bl&amp;ots=_7tY42Y2Bf&amp;sig=vixVYrjr4EdMhs5GR_yOQeMy8SI&amp;hl=en&amp;sa=X&amp;ei=uaCOVbu3DYGy-QHKs6iICA&amp;ved=0CCsQ6AEwAg#v=onepage&amp;q=living%20videotext%20ready&amp;f=false"></outline>
+					<outline text="MORE" type="link" url="http://outliners.scripting.com/more31.html"></outline>
+					<outline text="Frontier" type="link" url="http://frontier.userland.com/"></outline>
+					<outline text="OPML Editor" type="link" url="http://home.opml.org/"></outline>
+					</outline>
+				</outline>
+			<outline text="Websites">
+				<outline text="podcatch.com" type="link" url="http://podcatch.com/"></outline>
+				<outline name="techblastcom" text="techblast.org" type="link" url="http://techblast.org/"></outline>
+				</outline>
+			<outline text="Protocols/standards">
+				<outline text="RSS"></outline>
+				<outline text="OPML"></outline>
+				<outline text="XML-RPC"></outline>
+				<outline text="RiverJs"></outline>
+				</outline>
+			<outline text="Toolkits">
+				<outline text="nodeStorage"></outline>
+				<outline text="riverBrowser"></outline>
+				</outline>
+			<outline text="Mottos">
+				<outline text="My mottos">
+					<outline text="We make shitty software, with bugs!"></outline>
+					<outline text="People return to places that send them away."></outline>
+					<outline text="It's even worse than it appears."></outline>
+					<outline text="Still diggin."></outline>
+					<outline text="Let's have fun!"></outline>
+					<outline text="Only steal from the best."></outline>
+					<outline text="Narrate your work."></outline>
+					<outline text="Sources go direct."></outline>
+					</outline>
+				<outline collapse="true" text="Other people's mottos">
+					<outline text="&lt;a href=&quot;http://www.quoteswise.com/ted-turner-quotes-2.html&quot;&gt;Ted Turner&lt;/a&gt;: Great wealth isn't nearly as good as average sex"></outline>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="When">
+			<outline text="Born in 1955. "></outline>
+			<outline text="Still alive as of June 2021."></outline>
+			</outline>
+		<outline text="Where">
+			<outline text="Born in Brooklyn, NY."></outline>
+			<outline text="I live in New York, NY."></outline>
+			<outline text="I'm &quot;from&quot; Queens">
+				<outline text="Some people think that since I was born in Brooklyn, that's where I'm from, but it's not the case."></outline>
+				<outline text="Each borough of New York has a distinct culture. I was raised in Jackson Heights and Flushing, both in the borough of Queens. "></outline>
+				<outline text="I am a Mets fan. "></outline>
+				<outline text="If you had said I was from Brooklyn when I was a kid I probably would have punched you in the nose, figuratively of course. ;-)"></outline>
+				</outline>
+			<outline text="I've lived in..">
+				<outline text="Berkeley, CA"></outline>
+				<outline text="Cambridge, MA"></outline>
+				<outline text="Elizabeth, NJ"></outline>
+				<outline text="Flushing, NY"></outline>
+				<outline text="Jackson Heights, NY"></outline>
+				<outline text="Jamaica, NY"></outline>
+				<outline text="Madison, WI"></outline>
+				<outline text="New Orleans, LA"></outline>
+				<outline text="Seattle, WA"></outline>
+				<outline text="Silicon Valley">
+					<outline text="Mountain View, CA"></outline>
+					<outline text="Los Gatos, CA"></outline>
+					<outline text="Palo Alto, CA"></outline>
+					<outline text="Menlo Park, CA"></outline>
+					<outline text="Woodside, CA"></outline>
+					</outline>
+				<outline text="St Augustine, FL"></outline>
+				<outline created="Fri, 18 Jun 2021 19:34:54 GMT" text="Woodstock, NY."></outline>
+				</outline>
+			</outline>
+		<outline text="How">
+			<outline text="Edited in an outliner">
+				<outline text="Obviously this was edited in an outliner. It doesn't really matter which one, as long as it produced OPML, which is the standard format for interop among outliners. Here's the &lt;a href=&quot;davewiner.opml&quot;&gt;OPML file&lt;/a&gt; behind this site. "></outline>
+				</outline>
+			<outline text="Rendered in JSON">
+				<outline text="It's rendered using &lt;a href=&quot;https://github.com/scripting/outlineBrowser&quot;&gt;outlineBrowser&lt;/a&gt;, which is an open source browser component that displays JSON-structured outliners."></outline>
+				</outline>
+			<outline text="Served by PagePark">
+				<outline text="There's a &lt;a href=&quot;https://gist.github.com/scripting/02dfd9dd5d9d3053c510&quot;&gt;tiny bit&lt;/a&gt; of server code, written to run in &lt;a href=&quot;https://github.com/scripting/pagepark&quot;&gt;PagePark&lt;/a&gt;, my beautiful and simple web server written in JavaScript and served by Node.js. "></outline>
+				<outline text="PagePark is my favorite bit of new software. I've always been frustrated by how unnecessarily complex web servers are. I remember from the early days of the Web on the Mac that they could be very simple. So I made the one I've always wanted. "></outline>
+				</outline>
+			<outline text="Static JavaScript app">
+				<outline text="This is an &lt;a href=&quot;view-source:http://davewiner.com/&quot;&gt;example&lt;/a&gt; of a one-page JavaScript app. Most of the code is running on your browser. The two servers involved, PagePark and Amazon S3, do very little work. One is glue, and the other is simply serving text. This kind of app is a joy to write and very scalable. It's the future of the Web, imho."></outline>
+				</outline>
+			</outline>
+		<outline text="Why">
+			<outline text="It's even worse than it appears!"></outline>
+			<outline created="Fri, 18 Jun 2021 19:36:01 GMT" text="I am not a lawyer."></outline>
+			<outline created="Fri, 18 Jun 2021 19:36:05 GMT" text="My mother loves me."></outline>
+			</outline>
+		</body>
+	</opml>
