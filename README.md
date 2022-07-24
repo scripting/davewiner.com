@@ -1,2 +1,4 @@
 # davewiner.com
-Source for my personal profile site.
+
+Source for my <a href="http://davewiner.com/">personal profile site</a>.
+
