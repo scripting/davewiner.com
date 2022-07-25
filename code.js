@@ -53,6 +53,6 @@ function startup () {
 		outlineBrowserData.expandCollapseCallback = function (idnum) {
 			localStorage.expandCollapseState = getExpansionState ();
 			}
+		hitCounter ();
 		});
 	}
-
