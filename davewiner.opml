@@ -2,7 +2,7 @@
 <opml version="2.0">
 	<head>
 		<title>davewiner.opml</title>
-		<dateModified>Sun, 24 Jul 2022 21:52:38 GMT</dateModified>
+		<dateModified>Mon, 03 Oct 2022 14:03:44 GMT</dateModified>
 		<expansionState></expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>300</windowTop>
@@ -71,17 +71,19 @@
 				</outline>
 			<outline text="Software products">
 				<outline text="Current products">
-					<outline text="1999.io" type="link" url="http://1999.io/"></outline>
-					<outline name="littleOutliner" text="Little Outliner" type="link" url="http://littleoutliner.com/v2/"></outline>
-					<outline text="Happy Friends" type="link" url="http://happyfriends.camp/"></outline>
 					<outline name="radio3" text="Radio3" type="link" url="http://radio3.io/"></outline>
-					<outline name="fargo" text="Fargo" type="link" url="http://fargo.io/"></outline>
-					<outline text="Little Pork Chop" type="link" url="http://pork.io/"></outline>
-					<outline text="Little Card Editor" type="link" url="http://littlecardeditor.com/"></outline>
 					<outline text="Thesaurus Land" type="link" url="http://thesaurus.land/"></outline>
 					<outline text="PagePark" type="link" url="http://pagepark.io/"></outline>
 					<outline text="NodeRunner" type="link" url="http://noderunner.io/"></outline>
 					<outline name="river4" text="River5" type="link" url="https://github.com/scripting/river5"></outline>
+					</outline>
+				<outline created="Mon, 03 Oct 2022 13:53:02 GMT" text="Still there, but not being promoted">
+					<outline name="littlePorkChop" text="Little Pork Chop" type="link" url="http://pork.io/"></outline>
+					<outline name="littleCardEditor" text="Little Card Editor" type="link" url="http://littlecardeditor.com/"></outline>
+					<outline name="fargo" text="Fargo" type="link" url="http://fargo.io/"></outline>
+					<outline name="1999io" text="1999.io" type="link" url="http://1999.io/"></outline>
+					<outline name="littleOutliner" text="Little Outliner" type="link" url="http://littleoutliner.com/v2/"></outline>
+					<outline text="Happy Friends" type="link" url="http://happyfriends.camp/"></outline>
 					</outline>
 				<outline text="Gone but not forgotten">
 					<outline text="LBBS" type="link" url="http://scripting.com/dwiner/outlinersProgramming.html"></outline>

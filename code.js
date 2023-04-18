@@ -1,3 +1,5 @@
+const urlOpmlFile = "http://scripting.com/publicfolder/davewiner.com/dave.opml";
+
 function collapseEverything (theOutline, belowLevel) {
 	function doCollapse (theNode, level) {
 		if (theNode.subs !== undefined) {
@@ -36,7 +38,7 @@ function readHttpFile (url, callback, timeoutInMilliseconds) { //5/27/14 by DW
 	}
 function startup () {
 	console.log ("startup");
-	readHttpFile ("davewiner.opml", function (opmltext) {
+	readHttpFile (urlOpmlFile, function (opmltext) {
 		var theOutline = opml.parse (opmltext);
 		collapseEverything (theOutline, 0);
 		boldTopLevel (theOutline);
